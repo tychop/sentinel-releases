@@ -39,7 +39,6 @@ Sentinel helps you:
 - View pull requests requiring your attention
 - Open repositories in Terminal, Finder, or Fork
 - Access GitHub Actions and CI/CD status quickly
-- View Home screen widgets
 
 ## License
 
