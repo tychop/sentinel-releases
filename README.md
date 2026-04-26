@@ -7,8 +7,7 @@ Public releases for [Sentinel](https://github.com/tychop/Sentinel) - a macOS app
 ### Via Homebrew
 
 ```bash
-brew tap tychop/sentinel
-brew install sentinel-app
+brew install tychop/sentinel/sentinel-app
 ```
 
 ### Manual Download
